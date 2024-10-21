@@ -2,6 +2,7 @@
 # NAME:ABINAYA A
 # REG NO:21222304003
 
+
 # USE CASE DIAGRAM
 
 ![123](https://github.com/user-attachments/assets/e4e2357d-c858-4c9d-9755-c2fc8b2be4bf)
@@ -25,3 +26,7 @@
 # SEQUENCE DIAGRAM
 
 ![1234](https://github.com/user-attachments/assets/4ed6234b-dc63-4410-97f4-d5bdf19844eb)
+
+# RESULT:
+
+Hence, Use Case, Activity, Sequence, Class and Communication diagrams for ATM banking system is successfully drawn.
